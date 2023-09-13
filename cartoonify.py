@@ -8,7 +8,7 @@
 ##############################################################################
 #                                   Imports                                  #
 ##############################################################################
-from ex6_helper import *
+from cartoonify_helper import *
 from typing import Optional
 import sys
 
